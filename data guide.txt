@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLWoG",
+      "title": "sport football 1",
+        "text_Content": "Football, also known as association football, is one of the most popular sports in the world. It is estimated that more than half of the world’s population identifies as football fans. The sport is played by two teams with 11 players each and the objective is to score more goals than the opposing team by getting the ball into the opponent’s goal post..",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLkMI",
+      "title": "sport football 2",
+        "text_Content": "The origin of football can be traced back to ancient civilizations such as Greece, Rome, and China, where various forms of the game were played. However, the modern version of the sport can be credited to England, where the first set of rules were established in the 19th century. The sport quickly gained popularity and spread throughout the world, becoming one of the most widely played and watched sports today.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLf0D",
+      "title": "sport football 3",
+        "text_Content": "Football is played on a rectangular field with two goalposts at either end. The length of the field should be between 100-130 yards, and the width should be between 50-100 yards. The ball used in the sport is typically made of leather or synthetic materials and must be spherical in shape. Each team is allowed to make three substitutions during the game and the game is divided into two halves, each lasting 45 minutes.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLSUs",
+      "title": "sport football 4",
+        "text_Content": "The sport of football is governed by the International Football Association Board (IFAB) and the Federation Internationale de Football Association (FIFA). FIFA is responsible for organizing the World Cup, which is the biggest football tournament in the world and takes place every four years. The World Cup features teams from all over the world, and the tournament is watched by millions of people globally..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLpqP",
+      "title": "sport football 5",
+        "text_Content": "The sport of football is also played at the club level, where teams compete in leagues and tournaments organized by their respective countries. Some of the most popular club competitions include the English Premier League, Spanish La Liga, German Bundesliga, Italian Serie A, and French Ligue 1. These leagues feature some of the best players in the world and are watched by millions of fans around the globe",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymVxB",
+      "title": "sport football 6",
+        "text_Content": "Playing football requires a combination of physical, mental, and technical abilities. Physical attributes such as speed, agility, and endurance are crucial for players to perform well on the field. Mental attributes such as focus, concentration, and decision-making skills are also important, as players must make split-second decisions and react quickly to changing game scenarios. Technical abilities, such as dribbling, shooting, passing, and tackling, are also essential for players to excel in the sport..",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/yLcbA",
+      "title": "sport football 7",
+        "text_Content": "In addition to the physical and mental attributes, teamwork is also a crucial aspect of football. Players must work together as a unit to create opportunities, defend their goal, and ultimately, score goals. Communication, cooperation, and trust are essential elements of successful teamwork in football..",
+        "text_Content_1": "."
 
 
 
